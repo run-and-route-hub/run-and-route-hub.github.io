@@ -1,0 +1,10 @@
+title: Run and Route Hub
+description: Running routes for UH
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://run-and-route-hub.github.io/
+gems:
+  - jekyll-mentions
