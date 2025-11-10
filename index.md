@@ -32,8 +32,8 @@ Project is not yet deployed to Vercel.
 
 [Team Contract](https://docs.google.com/document/u/1/d/1DqhWxR_jaalQ27gvdDZRM-GbxYIpypTjjWOkkhnjlBU/edit?tab=t.0)
 
-- Renjie Chen
-- Albert Scales
-- Shuwei Chen
-- Jacob Hatanaka
-- Preston Woo
+- [Renjie Chen](https://chenr24-ics.github.io/)
+- [Albert Scales](https://albertlks.github.io/)
+- [Shuwei Chen](https://shuwei0225.github.io/)
+- [Jacob Hatanaka](Jacob-Hatanaka.github.io)
+- [Preston Woo](https://preston-woo.github.io/)
