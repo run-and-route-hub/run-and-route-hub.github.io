@@ -7,7 +7,7 @@
 
 ## Overview
 
-**[Run & Route Hub](https://github.com/run-and-route-hub/run-and-route-hub.github.io)** is a running-focused web app for UH students that helps runners:
+**Run & Route Hub** is a running-focused web app for UH students that helps runners:
 
 - Find running partners based on pace and availability
 - Access safe & UH-verified running routes
