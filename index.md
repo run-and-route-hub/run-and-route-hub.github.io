@@ -3,6 +3,8 @@
 ## Table of contents
 
 * [Overview](#Overview)
+* [Deployment](#Deployment)
+* [Development](#Development)
 * [Team](#Team)
 
 ## Overview
