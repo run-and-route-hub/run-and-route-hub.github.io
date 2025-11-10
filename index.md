@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-[Overview](#Overview)
-[Team](#Team)
+*[Overview](#Overview)
+*[Team](#Team)
 
 ## Overview
 
