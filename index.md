@@ -17,7 +17,13 @@
 
 This creates a **motivating and safety-focused running community** built specifically for UH students.
 
-## M1
+## Deployment
+
+Project is not yet deployed to Vercel.
+
+## Development
+
+## Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
 
 ## Team
