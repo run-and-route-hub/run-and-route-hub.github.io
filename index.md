@@ -35,5 +35,5 @@ Project is not yet deployed to Vercel.
 - [Renjie Chen](https://chenr24-ics.github.io/)
 - [Albert Scales](https://albertlks.github.io/)
 - [Shuwei Chen](https://shuwei0225.github.io/)
-- [Jacob Hatanaka](Jacob-Hatanaka.github.io)
+- [Jacob Hatanaka](https://jacob-hatanaka.github.io/)
 - [Preston Woo](https://preston-woo.github.io/)
