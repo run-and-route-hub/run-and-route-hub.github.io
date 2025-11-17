@@ -25,6 +25,10 @@ Project is not yet deployed to Vercel.
 
 ## Development
 <img src="images/LandingPage.png">
+This is our landing page featuring a textblock layout with our "Welcome" in the center and to the left is our Page's purpose and to the right are the details of what each added run contains.
+
+<img src="images/SignedInLanding.png">
+This is what the landing page looks like when signed in it shows our Navbar which has links to our Add Run Page, Find Run Page, and Find Running Buddies Page.
 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
