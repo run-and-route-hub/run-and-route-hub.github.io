@@ -25,7 +25,7 @@ Project is not yet deployed to Vercel.
 
 ## Development
 
-<img src="images/SignedInLandingPage.png">
+<img src="images/LandingPageLoggedIn.png">
 This is our landing page featuring a textblock layout with our "Welcome" in the center and to the left is our Page's purpose and to the right are the details of what each added run contains. In this screenshot the user is signed in so you are also able to see the Navbar and its links to the Add Run, Find Run, and Find Running Buddies pages but if you were not signed in all you would see is the login button at the top right.
 
 ### Milestone 1
