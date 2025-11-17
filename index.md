@@ -24,7 +24,7 @@ This creates a **motivating and safety-focused running community** built specifi
 Project is not yet deployed to Vercel.
 
 ## Development
-<img src = images/LandingPageWithNavbarAndFooter>
+<img src="images/LandingPage.png">
 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
