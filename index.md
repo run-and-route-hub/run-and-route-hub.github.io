@@ -31,6 +31,9 @@ This is our landing page featuring a textblock layout with our "Welcome" in the 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
 
+### Milestone 2
+[Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains some the plans and issues for the next steps of the project.
+
 ## Team
 
 [Team Contract](https://docs.google.com/document/u/1/d/1DqhWxR_jaalQ27gvdDZRM-GbxYIpypTjjWOkkhnjlBU/edit?tab=t.0)
