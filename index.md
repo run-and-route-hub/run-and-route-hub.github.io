@@ -28,6 +28,7 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 <img src="images/UpdatedLandingPageNov19.png">
 This is our landing page featuring a textblock layout with our "Welcome" in the center and to the left is our Page's purpose and to the right are the details of what each added run contains. In this screenshot the user is signed in so you are also able to see the Navbar and its links to the About, Add Run, Find Run, and Find Running Buddies pages but if you were not signed in all you would see is the login button at the top right. In our footer has an About Us link which leads back to our github page and on the left has details about the school and a link to the template.
 
+<img src ="images/AboutMockup.png">
 ## Mockups
 <img src ="images/ProfileMockup.png">
 <img src ="images/RoutesMockup.png">
