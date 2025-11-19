@@ -21,7 +21,7 @@ This creates a **motivating and safety-focused running community** built specifi
 
 ## Deployment
 
-Project is not yet deployed to Vercel.
+Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 
 ## Development
 
