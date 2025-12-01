@@ -7,7 +7,7 @@
 * [Development](#Development)
 * [Team](#Team)
 
-## Overview
+# Overview
 
 **Run & Route Hub** is a running-focused web app for UH students that helps runners:
 
@@ -19,34 +19,57 @@
 
 This creates a **motivating and safety-focused running community** built specifically for UH students.
 
-## Deployment
+# Deployment
 
 Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 
-## Development
+# User Guide
 
 <img src="images/M2/M2LandingPage.png">
 This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
-# Routes
+## Routes
 <img src ="images/M2/M2Routes.png">
 This page shows some off some of the routes on a map with there start and end points labelled.
 
-# Add Run
+### After the User is Signed in
+
+## Add Run
 <img src ="images/M2/M2AddRun.png">
 This page allows you to use a google map to choose the start and end points for your run. Once you select your route and give it a name it will show up in the routes page.
 
-# Find Run
+## Find Run
 <img src ="images/M2/M2FindRun.png">
 This page will allow you to search for runs based on certain criteria allowing you to find routes personalized to your search.
 
-# Find Running Buddies
+## Find Running Buddies
 <img src ="images/M2/M2RunningBuddies.png">
 This page will allow you to find other runners and interact with them whether it is allowing you to schedule runs with them or just talk.
 
-# Profile
+### Profile
 <img src="images/M2/M2Profile.png">
 This page is the other end of the find running buddies where you will have stats associated with your account making it easier for you to be found by other users.
+
+# Developer Guide
+
+First download a copy of [Run and Route Hub](https://github.com/run-and-route-hub/Run-and-Route-Hub)
+
+Second, cd into the directory of your local copy of the repo, and install third party libraries with:
+
+```
+
+$ npm install
+
+```
+
+Third, run npm run dev to access the app locally by putting http://localhost:3000 in a search browser.
+
+
+```
+
+$ npm run dev
+
+```
 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues worked on during the initial stages of the project.
