@@ -1,5 +1,5 @@
 # Run & Route Hub
-![ci-badge](https://github.com/run-and-route-hub/Run-and-Route-Hub/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/run-and-route-hub/Run-and-Route-Hub/workflows/ci-run-and-route-hub/badge.svg)
 
 ## Table of contents
 
