@@ -4,7 +4,11 @@
 
 * [Overview](#Overview)
 * [Deployment](#Deployment)
-* [Development](#Development)
+* [User Guide](#User-Guide)
+* [Developer Guide](#Developer-Guide)
+* [Milestone 1](#Milestone-1)
+* [Milestone 2](#Milestone-2)
+* [Milestone 3](#Milestone-3)
 * [Team](#Team)
 
 # Overview
