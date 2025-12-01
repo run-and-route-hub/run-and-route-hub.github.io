@@ -4,7 +4,7 @@
 
 * [Overview](#overview)
 * [Deployment](#deployment)
-* [User Guide](#user-Guide)
+* [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
