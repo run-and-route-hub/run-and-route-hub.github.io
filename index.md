@@ -32,6 +32,10 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 <img src="images/M2/M2LandingPage.png">
 This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
+## About
+<img src="images/M2/M2About.png">
+For a more in depth dive into the intentions, goals, and purpose of this project.
+
 ## Routes
 <img src ="images/M2/M2Routes.png">
 This page shows some off some of the routes on a map with there start and end points labelled.
