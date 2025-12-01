@@ -28,11 +28,25 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 <img src="images/M2/M2LandingPage.png">
 This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
+# Routes
 <img src ="images/M2/M2Routes.png">
+This page shows some off some of the routes on a map with there start and end points labelled.
+
+# Add Run
 <img src ="images/M2/M2AddRun.png">
+This page allows you to use a google map to choose the start and end points for your run. Once you select your route and give it a name it will show up in the routes page.
+
+# Find Run
 <img src ="images/M2/M2FindRun.png">
+This page will allow you to search for runs based on certain criteria allowing you to find routes personalized to your search.
+
+# Find Running Buddies
 <img src ="images/M2/M2RunningBuddies.png">
+This page will allow you to find other runners and interact with them whether it is allowing you to schedule runs with them or just talk.
+
+# Profile
 <img src="images/M2/M2Profile.png">
+This page is the other end of the find running buddies where you will have stats associated with your account making it easier for you to be found by other users.
 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues worked on during the initial stages of the project.
