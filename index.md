@@ -54,6 +54,9 @@ This page is the other end of the find running buddies where you will have stats
 ### Milestone 2
 [Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains the plans and issues worked on during the second section of our project.
 
+### Milestone 3
+[Milestone 3](https://github.com/orgs/run-and-route-hub/projects/6/views/1) contains the plans and issues worked on during the third section of our project.
+
 ## Team
 
 [Team Contract](https://docs.google.com/document/u/1/d/1DqhWxR_jaalQ27gvdDZRM-GbxYIpypTjjWOkkhnjlBU/edit?tab=t.0)
