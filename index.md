@@ -25,21 +25,20 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 
 ## Development
 
-<img src="images/UpdatedLandingPageNov19.png">
-This is our landing page featuring a textblock layout with our "Welcome" in the center and to the left is our Page's purpose and to the right are the details of what each added run contains. In this screenshot the user is signed in so you are also able to see the Navbar and its links to the About, Add Run, Find Run, and Find Running Buddies pages but if you were not signed in all you would see is the login button at the top right. In our footer has an About Us link which leads back to our github page and on the left has details about the school and a link to the template.
+<img src="images/M2/M2LandingPage.png">
+This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
-<img src ="images/AboutMockup.png">
-## Mockups
-<img src ="images/ProfileMockup.png">
-<img src ="images/RoutesMockup.png">
-<img src ="images/FindRunMockup.jpg">
-<img src ="images/AddRouteMockup.png">
+<img src ="images/M2/M2Routes.png">
+<img src ="images/M2/M2AddRun.png">
+<img src ="images/M2/M2FindRun.png">
+<img src ="images/M2/M2RunningBuddies.png">
+<img src="images/M2/M2Profile.png">
 
 ### Milestone 1
 [Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
 
 ### Milestone 2
-[Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains some the plans and issues for the next steps of the project.
+[Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains the plans and issues for the second section of our project.
 
 ## Team
 
