@@ -35,10 +35,10 @@ This is our landing page, featuring our purpose in the center with multiple text
 <img src="images/M2/M2Profile.png">
 
 ### Milestone 1
-[Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues for the first initial steps of the project.
+[Milestone 1](https://github.com/orgs/run-and-route-hub/projects/1/views/1) contains the plans and issues worked on during the initial stages of the project.
 
 ### Milestone 2
-[Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains the plans and issues for the second section of our project.
+[Milestone 2](https://github.com/orgs/run-and-route-hub/projects/4/views/1) contains the plans and issues worked on during the second section of our project.
 
 ## Team
 
