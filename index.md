@@ -2,14 +2,14 @@
 
 ## Table of contents
 
-* [Overview](#Overview)
-* [Deployment](#Deployment)
-* [User Guide](#User-Guide)
-* [Developer Guide](#Developer-Guide)
-* [Milestone 1](#Milestone-1)
-* [Milestone 2](#Milestone-2)
-* [Milestone 3](#Milestone-3)
-* [Team](#Team)
+* [Overview](#overview)
+* [Deployment](#deployment)
+* [User Guide](#user-Guide)
+* [Developer Guide](#developer-guide)
+* [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
+* [Milestone 3](#milestone-3)
+* [Team](#team)
 
 # Overview
 
@@ -29,6 +29,7 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 
 # User Guide
 
+## Landing Page
 <img src="images/M2/M2LandingPage.png">
 This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
