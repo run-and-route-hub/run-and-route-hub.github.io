@@ -1,5 +1,5 @@
 # Run & Route Hub
-![ci-badge](https://github.com/run-and-route-hub/Run-and-Route-Hub/actions/workflows/ci-run-and-route-hub.yml/badge.svg)
+[![ci-run-and-route-hub](https://github.com/run-and-route-hub/Run-and-Route-Hub/actions/workflows/ci.yml/badge.svg)](https://github.com/run-and-route-hub/Run-and-Route-Hub/actions/workflows/ci.yml)
 
 ## Table of contents
 
