@@ -10,6 +10,7 @@
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [Feedback](#feedback)
 * [Team](#team)
 
 # Overview
@@ -89,6 +90,13 @@ $ npm run dev
 
 ### Milestone 3
 [Milestone 3](https://github.com/orgs/run-and-route-hub/projects/6/views/1) contains the plans and issues worked on during the third section of our project.
+
+## Feedback
+Review #1:
+
+- liked the overall visual design of webpages
+- found issues regarding sign-in and sign-up pages
+- stated that route names were confusing
 
 ## Team
 
