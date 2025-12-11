@@ -63,8 +63,11 @@ This page can be found under the email where you will have stats associated with
 
 ### Review Page
 
-<img src="images/M3/M3Reivew.png">
-This page is the other end of the find running buddies that allows you to review the routes and give it a rating + additional suggestions
+<img src="images/M3/Review.png">
+This page is the other end of the find running buddies that allows you to view all the routes and click on one you wish to review. An option to search using ID is available in the search bar.
+
+<img src="images/M3/Review2.png">
+Clicking on a route allows you to rate the difficulty, enjoyability, and give additional feedback. 
 
 # Developer Guide
 
