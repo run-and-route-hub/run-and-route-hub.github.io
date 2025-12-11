@@ -59,7 +59,12 @@ This page will allow you to find other runners and interact with them whether it
 
 ### Profile
 <img src="images/M2/M2Profile.png">
-This page is the other end of the find running buddies where you will have stats associated with your account making it easier for you to be found by other users.
+This page can be found under the email where you will have stats associated with your account making it easier for you to be found by other users.
+
+### Review Page
+
+<img src="images/M3/M3Reivew.png">
+This page is the other end of the find running buddies that allows you to review the routes and give it a rating + additional suggestions
 
 # Developer Guide
 
@@ -97,6 +102,26 @@ Review #1:
 - liked the overall visual design of webpages
 - found issues regarding sign-in and sign-up pages
 - stated that route names were confusing
+
+Review #2:
+
+- found the website visually appealing
+- enjoyed the profile's page and the stats shown
+- found it weird how the routes sometimes don't make sense
+      - pointed how it is easy for people to put in false data
+
+Review #3:
+
+- found the review system useful
+      -liked the star system similar to "Yelp"
+- found problems of the profile staying the same even when logging in a different email
+- liked the color scheme of the website and how it resembles UH Manoa 
+
+Review #4:
+
+- found the website visually appealing
+- didn't fiind the footer visually appealing, wanted a separation between the footer and the main page
+- found it weird how some fo the routes run through buildings and streets
 
 ## Team
 
