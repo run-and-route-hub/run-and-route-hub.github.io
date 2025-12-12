@@ -32,7 +32,7 @@ Project has been deployed to [Vercel](https://run-and-route-hub.vercel.app/).
 # User Guide
 
 ## Landing Page
-<img src="images/M2/M2LandingPage.png">
+<img src="images/M3/m3Land.png">
 This is our landing page, featuring our purpose in the center with multiple text blocks beneath it going into detail about the different features we have.
 
 ## About
@@ -50,8 +50,12 @@ This page shows some off some of the routes on a map with there start and end po
 This page allows you to use a google map to choose the start and end points for your run. Once you select your route and give it a name it will show up in the routes page.
 
 ## Find Run
-<img src ="images/M2/M2FindRun.png">
-This page will allow you to search for runs based on certain criteria allowing you to find routes personalized to your search.
+<img src ="images/M3/m3FindRUn.png">
+This page allows you to find all runs posted to the sight, with their distances and allows you to click them for a more detailed perspective on where they are.
+
+## Edit Route
+<img src="images/M3/m3EditRun.png">
+When you click the pin of run on the routes page you may click edit run to edit the details of the run.
 
 ## Find Running Buddies
 <img src ="images/M2/M2RunningBuddies.png">
@@ -125,6 +129,11 @@ Review #4:
 - found the website visually appealing
 - didn't fiind the footer visually appealing, wanted a separation between the footer and the main page
 - found it weird how some fo the routes run through buildings and streets
+
+Review #5:
+- Enjoyed the theme and aesthetics of the website
+- Wanted to improve the functionality and make it so routes were not as easy to alter to prevent people from messing with them
+- Wished the routes on the page could better represent the actual pathing you would take in person
 
 ## Team
 
